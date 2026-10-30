@@ -1,0 +1,28 @@
+{
+  "checkpoints": {
+    "Вхід": true,
+    "Сцена": true,
+    "Аудиторія": true,
+    "Лівий верхній нетворкінг": true,
+    "Лівий малий нетворкінг": true,
+    "Правий малий нетворкінг": true,
+    "Правий верхній нетворкінг": true,
+    "Лівий нижній нетворкінг": true,
+    "Правий нижній нетворкінг": true,
+    "Лівий прохід між стендами": true,
+    "Правий прохід між стендами": true,
+    "Лівий прохід під стендами": true,
+    "Правий прохід під стендами": true,
+    "ROZETKA": true,
+    "monobank": true,
+    "Нова пошта": true,
+    "uklon": true,
+    "AJAX": true,
+    "MacPaw": true,
+    "Київстар": true,
+    "Дія": true
+  },
+  "reachable_tiles": 7925,
+  "spawn_tiles": 64,
+  "engine_test": "Pending WorkAdventure live test"
+}
