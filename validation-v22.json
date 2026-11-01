@@ -1,0 +1,13 @@
+{
+  "labels": 11,
+  "native_label_render_verified": true,
+  "collision_matches_user_markup": true,
+  "other_signs_on_blocked_tiles": true,
+  "stage_text_aligned_unframed": true,
+  "outer_boundary_closed": true,
+  "all_walkable_tiles_reachable": true,
+  "walkable_tiles": 9222,
+  "blocked_tiles": 6138,
+  "max_texture_size": 2048,
+  "live_WorkAdventure_test": "pending"
+}

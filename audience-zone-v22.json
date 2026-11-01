@@ -1,0 +1,14 @@
+{
+  "name": "Глядацька зала",
+  "x": 1856,
+  "y": 704,
+  "width": 1408,
+  "height": 480,
+  "design_coordinates": {
+    "x": 464,
+    "y": 176,
+    "width": 352,
+    "height": 120
+  },
+  "purpose": "Reference for drawing the audience area in WorkAdventure; does not activate audio automatically."
+}
