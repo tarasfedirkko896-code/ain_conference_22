@@ -1,0 +1,25 @@
+{
+  "yellow_regions": 2,
+  "blue_contours": 14,
+  "tiles_per_blue_contour": [
+    4,
+    4,
+    6,
+    6,
+    5,
+    6,
+    16,
+    4,
+    9,
+    5,
+    6,
+    10,
+    4,
+    16
+  ],
+  "tiles_cleared": 75,
+  "tiles_closed": 98,
+  "yellow_reachable": true,
+  "all_previous_route_checkpoints_reachable": true,
+  "collision_accuracy": "32x32 world pixels; 9x9 pixels on annotation; centre sampled outlines"
+}
